@@ -25,7 +25,6 @@
 파이썬으로 할 수 없는 일
 - 시스템과 밀접한 프로그래밍 영역(window, linux)
 - 모바일 프로그래밍
-[참고1](https://www.youtube.com/watch?v=KL1MIuBfWe0)
-참고2
-- 이것이 취업을 위한 코딩 테스트다(나동빈, 한빛미디어)
 ```
+[참고1](https://www.youtube.com/watch?v=KL1MIuBfWe0)
+[참고2](https://github.com/ndb796/python-for-coding-test)

@@ -2,8 +2,8 @@
 
 ```
 에이블스쿨 교육 동기들이랑 진행
-화(저녁 9시) - 이것이 취업을 위한 코딩 테스트다
-목(저녁 9시) - 백준
+화(저녁 8시) - 이것이 취업을 위한 코딩 테스트다
+목(저녁 8시) - 백준
 ```
 |알고리즘 유형|문제명|업로드|참고|
 |------------|-----|----|----|
@@ -17,5 +17,5 @@
 |그리디|[잃어버린 괄호](https://github.com/soocy0718/python/blob/main/coding_study/Greedy/%EB%B0%B1%EC%A4%80_1541_%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EA%B4%84%ED%98%B8_0303.py)|⭕|[백준](https://www.acmicpc.net/problem/1541) |
 |그리디|[회의실 배정](https://github.com/soocy0718/python/blob/main/coding_study/Greedy/%EB%B0%B1%EC%A4%80_1931_%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EB%B0%B0%EC%A0%95_0303.py)|⭕|[백준](https://www.acmicpc.net/problem/1931) |
 |그리디|[최소 회의실 개수](https://github.com/soocy0718/python/blob/main/coding_study/Greedy/%EB%B0%B1%EC%A4%80_19598_%EC%B5%9C%EC%86%8C%20%ED%9A%8C%EC%9D%98%EC%8B%A4%20%EA%B0%9C%EC%88%98_0303.py)|⭕|[백준](https://www.acmicpc.net/problem/19598) |
-|그리디|카드 정렬하기|❌|[백준](https://www.acmicpc.net/problem/1715) |
-|그리디|크게 만들기|❌|[백준](https://www.acmicpc.net/problem/2812) |
+|그리디|[카드 정렬하기](https://github.com/soocy0718/python/blob/main/coding_study/Greedy/%EB%B0%B1%EC%A4%80_1715_%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_0303.py)|⭕|[백준](https://www.acmicpc.net/problem/1715) |
+|그리디|[크게 만들기](https://github.com/soocy0718/python/blob/main/coding_study/Greedy/%EB%B0%B1%EC%A4%80_2812_%ED%81%AC%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0_0303.py)|⭕|[백준](https://www.acmicpc.net/problem/2812) |

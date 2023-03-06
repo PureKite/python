@@ -26,9 +26,8 @@ value = 0
 
 # 문자 하나씩 확인
 for x in data:
-    # 알파벳인 경우 결과 리스트에 삽입
-    # isalpha() 함수가 중요했던 것 같다!
-    if x.isalpha():
+    # key point! isalpha() 함수가 중요했던 것 같다!
+    if x.isalpha():  # 알파벳인 경우 결과 리스트에 삽입
         result.append(x)
     # 숫자는 따로 더하기
     else:
@@ -41,4 +40,4 @@ if value != 0:
     result.append(str(value))
 
 # 최종 결과 출력
-print(''.join(result))
+print(''.join(result))  # join을 이용하여 문자열로 출력

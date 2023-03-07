@@ -2,7 +2,7 @@ duck = input()
 # 오리 울음소리 순서 q -> u -> a -> c -> k
 quack = 'quack'
 visited = [0] * len(duck)
-
+#
 # key point! 오리가 연속으로 울기 가능 => 최소한의 오리를 찾기 위해서..!
 # quack 다음 quack이 나오면 한 마리로 취급..!
 

@@ -15,6 +15,6 @@
 |외벽 점검|❌||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
 |[달팽이](https://github.com/soocy0718/python/blob/main/coding_study/Implementation/%EB%B0%B1%EC%A4%80_1913_%EB%8B%AC%ED%8C%BD%EC%9D%B4_0306.py)|⭕||[백준](https://www.acmicpc.net/problem/1913) |
 |[오리](https://github.com/soocy0718/python/blob/main/coding_study/Implementation/%EB%B0%B1%EC%A4%80_12933_%EC%98%A4%EB%A6%AC_0306.py)|⭕||[백준](https://www.acmicpc.net/problem/12933) |
-|달력|❌||[백준](https://www.acmicpc.net/problem/20207) |
-|홀수 홀릭 호석|❌||[백준](https://www.acmicpc.net/problem/20164) |
-|트리 순회|❌||[백준](https://www.acmicpc.net/problem/22856) |
+|[달력](https://github.com/soocy0718/python/blob/main/coding_study/Implementation/%EB%B0%B1%EC%A4%80_20207_%EB%8B%AC%EB%A0%A5_0306.py)|⭕||[백준](https://www.acmicpc.net/problem/20207) |
+|[홀수 홀릭 호석](https://github.com/soocy0718/python/blob/main/coding_study/Implementation/%EB%B0%B1%EC%A4%80_20164_%ED%99%80%EC%88%98%20%ED%99%80%EB%A6%AD%20%ED%98%B8%EC%84%9D_0306.py)|⭕||[백준](https://www.acmicpc.net/problem/20164) |
+|[트리 순회](https://github.com/soocy0718/python/blob/main/coding_study/Implementation/%EB%B0%B1%EC%A4%80_22856_%ED%8A%B8%EB%A6%AC%20%EC%88%9C%ED%9A%8C_0306.py)|⭕||[백준](https://www.acmicpc.net/problem/22856) |

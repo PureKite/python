@@ -7,7 +7,7 @@
 ## 목차
 - [그리디](https://github.com/soocy0718/python/tree/main/coding_study/Greedy)
 - [구현](https://github.com/soocy0718/python/tree/main/coding_study/Implementation)
-- BFS/DFS
+- [BFS/DFS](https://github.com/soocy0718/python/tree/main/coding_study/BFS_DFS)
 - 정렬
 - 이진탐색
 - 다이나믹 프로그래밍

@@ -25,4 +25,4 @@
 |[트리의 부모 찾기](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/11725) |
 |[효율적인 해킹](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_2178_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/2178) |
 |[DFS와 BFS](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80__1260_DFS%EC%99%80%20BFS_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/1260) |
-|[봄버맨](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_16918_%EB%B4%84%EB%B2%84%EB%A7%A8_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/16918) |
+|[봄버맨](https://github.com/soocy0718/python/tree/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_16918_%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85)|⭕||[백준](https://www.acmicpc.net/problem/16918) |

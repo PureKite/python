@@ -16,7 +16,12 @@
 |문제명|업로드|다시 풀기|참고|
 |-----|----|----|----|
 |[특정 거리의 도시 찾기](https://github.com/soocy0718/python/tree/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_15_%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[연구소]()|||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[경쟁적 전염]()|||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[괄호 변환]()|||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[인구 이동]()|||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[연구소]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[경쟁적 전염]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[괄호 변환]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[인구 이동]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[바이러스]()|⭕||[백준](https://www.acmicpc.net/problem/2606) |
+|[트리의 부모 찾기]()|⭕||[백준](https://www.acmicpc.net/problem/11725) |
+|[효율적인 해킹]()|⭕||[백준](https://www.acmicpc.net/problem/2178) |
+|[DFS와 BFS]()|⭕||[백준](https://www.acmicpc.net/problem/1260) |
+|[봄버맨]()|⭕||[백준](https://www.acmicpc.net/problem/16918) |

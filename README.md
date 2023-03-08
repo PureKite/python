@@ -1,12 +1,11 @@
-### 💻 python 코딩 테스트 공부
+## 💻 python 코딩 테스트 공부
 
-```
-🧡 백준 알고리즘
-- 직접 풀어보기
-- 한 시간 이상 걸릴 때 서칭(참고 적기) => 나중에 다시 풀기
-💛 프로그래머스
-- 직접 풀어보기
-- 한 시간 이상 걸릴 때 서칭(참고 적기) => 나중에 다시 풀기
-💙 이것이 취업을 위한 코딩 테스트다(나동빈, 한빛미디어)
-- 알고리즘 이해하고 따라해보기
-```
+
+### 🧡 [/2-coding-test](https://github.com/soocy0718/python/tree/main/2-coding-test)
+- 이것이 취업을 위한 코딩 테스트다(나동빈, 한빛미디어)
+- 예제와 실전 문제
+### 💛 [/basic](https://github.com/soocy0718/python/tree/main/basic)
+- 파이썬 정리
+- 파이썬 기본 문법 정리
+### 💙 [/coding_study](https://github.com/soocy0718/python/tree/main/coding_study)
+- 코딩 스터디

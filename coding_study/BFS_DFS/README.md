@@ -16,12 +16,13 @@
 |문제명|업로드|다시 풀기|참고|
 |-----|----|----|----|
 |[특정 거리의 도시 찾기](https://github.com/soocy0718/python/tree/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_15_%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[연구소]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[경쟁적 전염]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[괄호 변환]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[인구 이동]()|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
-|[바이러스]()|⭕||[백준](https://www.acmicpc.net/problem/2606) |
-|[트리의 부모 찾기]()|⭕||[백준](https://www.acmicpc.net/problem/11725) |
-|[효율적인 해킹]()|⭕||[백준](https://www.acmicpc.net/problem/2178) |
-|[DFS와 BFS]()|⭕||[백준](https://www.acmicpc.net/problem/1260) |
-|[봄버맨]()|⭕||[백준](https://www.acmicpc.net/problem/16918) |
+|[연구소](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_16_%EC%97%B0%EA%B5%AC%EC%86%8C_0308.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[경쟁적 전염](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_17_%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC_0308.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[괄호 변환](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_18_%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98_0308.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[연산자 끼워 넣기](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_19_%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%20%EB%84%A3%EA%B8%B0_0308.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[인구 이동](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EC%9D%B4%EC%BD%94%ED%85%8C_21_%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99_0308.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
+|[바이러스](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/2606) |
+|[트리의 부모 찾기](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_11725_%ED%8A%B8%EB%A6%AC%EC%9D%98%20%EB%B6%80%EB%AA%A8%20%EC%B0%BE%EA%B8%B0_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/11725) |
+|[효율적인 해킹](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_2178_%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%95%B4%ED%82%B9_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/2178) |
+|[DFS와 BFS](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80__1260_DFS%EC%99%80%20BFS_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/1260) |
+|[봄버맨](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_16918_%EB%B4%84%EB%B2%84%EB%A7%A8_0308.py)|⭕||[백준](https://www.acmicpc.net/problem/16918) |

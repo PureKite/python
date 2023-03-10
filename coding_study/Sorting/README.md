@@ -20,7 +20,12 @@
 ### 🔖 정리
 |문제명|업로드|다시 풀기|참고|
 |-----|----|----|----|
-|국영수|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
-|안테나|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
-|실패율|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
-|카드 정렬하기|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
+|[국영수](https://github.com/soocy0718/python/blob/main/coding_study/Sorting/%EC%9D%B4%EC%BD%94%ED%85%8C_23_%EA%B5%AD%EC%98%81%EC%88%98_0310.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
+|[안테나](https://github.com/soocy0718/python/blob/main/coding_study/Sorting/%EC%9D%B4%EC%BD%94%ED%85%8C_24_%EC%95%88%ED%85%8C%EB%82%98_0310.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
+|[실패율](https://github.com/soocy0718/python/blob/main/coding_study/Sorting/%EC%9D%B4%EC%BD%94%ED%85%8C_25_%EC%8B%A4%ED%8C%A8%EC%9C%A8_0310.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
+|[카드 정렬하기](https://github.com/soocy0718/python/blob/main/coding_study/Sorting/%EC%9D%B4%EC%BD%94%ED%85%8C_26_%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0_0310.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test) |
+|[수리공항승]()|⭕||[백준](https://www.acmicpc.net/problem/1449) |
+|[시리얼번호]()|⭕||[백준](https://www.acmicpc.net/problem/1431) |
+|[두수의합]()|⭕||[백준](https://www.acmicpc.net/problem/3273) |
+|[좌표압축]()|⭕||[백준](https://www.acmicpc.net/problem/18870) |
+|[신입사원]()|⭕||[백준](https://www.acmicpc.net/problem/1946) |

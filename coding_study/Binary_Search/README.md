@@ -15,6 +15,6 @@
 |[공유기 설치](https://github.com/soocy0718/python/blob/main/coding_study/Binary_Search/%EC%9D%B4%EC%BD%94%ED%85%8C_29_%EA%B3%B5%EC%9C%A0%EA%B8%B0%20%EC%84%A4%EC%B9%98_0313.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
 |[if문 좀 대신 써줘](https://github.com/soocy0718/python/blob/main/coding_study/Binary_Search/%EB%B0%B1%EC%A4%80_19637_if%EB%AC%B8%20%EC%A2%80%20%EB%8C%80%EC%8B%A0%20%EC%8D%A8%EC%A4%98_0313.py)|⭕||[백준](https://www.acmicpc.net/problem/19637) |
 |[나무자르기](https://github.com/soocy0718/python/blob/main/coding_study/Binary_Search/%EB%B0%B1%EC%A4%80_2805_%EB%82%98%EB%AC%B4%EC%9E%90%EB%A5%B4%EA%B8%B0_0313.py)|⭕||[백준](https://www.acmicpc.net/problem/2805) |
-|[징검다리건너기](https://github.com/soocy0718/python/tree/main/coding_study/Binary_Search/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85) |
+|[징검다리건너기](https://github.com/soocy0718/python/tree/main/coding_study/Binary_Search/%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%EA%B1%B4%EB%84%88%EA%B8%B0_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85) |⭕
 |[그르다 김가놈](https://github.com/soocy0718/python/blob/main/coding_study/Binary_Search/%EB%B0%B1%EC%A4%80_18113_%EA%B7%B8%EB%A5%B4%EB%8B%A4%20%EA%B9%80%EA%B0%80%EB%86%88_0313.py)|⭕||[백준](https://www.acmicpc.net/problem/118113) |
 |[수열과 헌팅]()|||[백준](https://www.acmicpc.net/problem/20495) |

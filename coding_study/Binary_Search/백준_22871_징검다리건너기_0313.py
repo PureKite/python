@@ -4,34 +4,34 @@
 
 # 이진탐색으로 푼 풀이..
 import sys
-input = sys.stdin.readline
+# input = sys.stdin.readline
 
 
-def binary_search(start, end):
-    while (start <= end):
-        mid = (start + end) // 2
-        visited = [False] * (n + 1)  # 밟은
-        visited[1] = True
-        for i in range(1, n+1):
-            if (visited[-1]):  # 마지막 도달
-                break
-            if (visited[i]):
-                for j in range(i+1, n+1):
-                    power = (j-i) * (1 + abs(arr[j] - arr[i]))
-                    if (power < mid):
-                        visited[j] = True
-        if (visited[-1]):  # 징검다리 도착 -> mid 값 작아지도록
-            end = mid - 1
-        else:
-            start = mid + 1
-    return end
+# def binary_search(start, end):
+#     while (start <= end):
+#         mid = (start + end) // 2
+#         visited = [False] * (n + 1)  # 밟은
+#         visited[1] = True
+#         for i in range(1, n+1):
+#             if (visited[-1]):  # 마지막 도달
+#                 break
+#             if (visited[i]):
+#                 for j in range(i+1, n+1):
+#                     power = (j-i) * (1 + abs(arr[j] - arr[i]))
+#                     if (power < mid):
+#                         visited[j] = True
+#         if (visited[-1]):  # 징검다리 도착 -> mid 값 작아지도록
+#             end = mid - 1
+#         else:
+#             start = mid + 1
+#     return end
 
 
-n = int(input())
-arr = list(map(int, input().split()))
-arr = [0] + arr
+# n = int(input())
+# arr = list(map(int, input().split()))
+# arr = [0] + arr
 
-print(binary_search(0, 1000000))
+# print(binary_search(0, 1000000))
 
 # dp로 풀었을 때
 n = int(sys.stdin.readline())
@@ -45,6 +45,7 @@ for i in range(1, n):
     for j in range(0, i):
         # (j - i) × (1 + |Ai - Aj|)
         power = max((i - j) * (1 + abs(stones[i] - stones[j])), dp[j])
+        # 1 -3 : 2, 3 -5 : 2
         dp[i] = min(dp[i], power)
 print(dp[n - 1])
 

@@ -9,7 +9,7 @@
 - [구현](https://github.com/soocy0718/python/tree/main/coding_study/Implementation)
 - [BFS/DFS](https://github.com/soocy0718/python/tree/main/coding_study/BFS_DFS)
 - [정렬](https://github.com/soocy0718/python/tree/main/coding_study/Sorting)
-- 이진탐색
+- [이진탐색](https://github.com/soocy0718/python/tree/main/coding_study/Binary_Search)
 - 다이나믹 프로그래밍
 - 최단경로
 - 그래프 이론

@@ -1,6 +1,6 @@
 #### 금광
 
-- [코드](https://github.com/soocy0718/python/blob/main/coding_study/BFS_DFS/%EB%B0%B1%EC%A4%80_16918_%EB%B4%84%EB%B2%84%EB%A7%A8_0308.py)
+- [코드](https://github.com/soocy0718/python/blob/main/coding_study/DP/%EC%9D%B4%EC%BD%94%ED%85%8C_31_%EA%B8%88%EA%B4%91_0315.py)
 
 - 아래 예제를 넣었을 때 돌아가는 과정
 ```

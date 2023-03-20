@@ -15,5 +15,5 @@
 <img src="https://github.com/soocy0718/python/blob/main/coding_study/DP/%EA%B8%88%EA%B4%91_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C4.PNG", height="500", width="600">
 <img src="https://github.com/soocy0718/python/blob/main/coding_study/DP/%EA%B8%88%EA%B4%91_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.PNG", height="500", width="600">
 <img src="https://github.com/soocy0718/python/blob/main/coding_study/DP/%EA%B8%88%EA%B4%91_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C6.PNG", height="500", width="600">
-<img src="https://github.com/soocy0718/python/blob/main/coding_study/DP/%EA%B8%88%EA%B4%91_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.PNG", height="500", width="600">
+<img src="https://github.com/soocy0718/python/blob/main/coding_study/DP/%EA%B8%88%EA%B4%91_%EC%BD%94%EB%93%9C_%EC%84%A4%EB%AA%85/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.png", height="500", width="600">
 </html>

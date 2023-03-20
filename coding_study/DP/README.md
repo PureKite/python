@@ -17,3 +17,6 @@
 |[편집 거리](https://github.com/soocy0718/python/blob/main/coding_study/DP/%EC%9D%B4%EC%BD%94%ED%85%8C_36_%ED%8E%B8%EC%A7%91%20%EA%B1%B0%EB%A6%AC_0315.py)|⭕||[이것이 취업을 위한 코딩테스트다](https://github.com/ndb796/python-for-coding-test)|
 |[Four Squares](https://github.com/soocy0718/python/blob/main/coding_study/DP/%EB%B0%B1%EC%A4%80_17626_Four%20Squares_0315.py)|⭕||[백준](https://www.acmicpc.net/problem/17626) |
 |[가장 큰 증가하는 부분 수열]()|⭕||[백준](https://www.acmicpc.net/problem/11055) |
+|[가장 긴 증가하는 부분 수열]()|⭕||[백준](https://www.acmicpc.net/problem/11053) |
+|[점프]()|⭕||[백준](https://www.acmicpc.net/problem/1890) |
+|[징검다리 건너기]()|⭕||[백준](https://www.acmicpc.net/problem/21317) |

@@ -9,3 +9,5 @@
 - 파이썬 기본 문법 정리
 ### 💙 [/coding_study](https://github.com/soocy0718/python/tree/main/coding_study)
 - 코딩 스터디
+### 💜 [/DoitPython](https://github.com/soocy0718/python/tree/main/DoitPython)
+- Do it! 알고리즘 코딩테스트 파이썬편

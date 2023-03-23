@@ -11,6 +11,10 @@
 - 하나의 그래프가 있을 때 모든 노드를 포함하면서 사이클이 존재하지 않는 부분 그래프를 의미
 - [크루스칼 알고리즘](https://github.com/soocy0718/python/tree/main/2-coding-test/Graph/5.py)
 
+### ❓ 위상 정렬이란?
+- 방향 그래프의 모든 노드를 '방향성에 거스르지 않도록 순서대로 나열하는 것'
+- [위상 정렬 알고리즘](https://github.com/soocy0718/python/tree/main/2-coding-test/Graph/6.py)
+
 ### 🔖 정리
 |문제명|업로드|다시 풀기|참고|
 |-----|----|----|----|

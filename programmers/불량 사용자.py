@@ -52,6 +52,6 @@ def solution(user_id, banned_id):
 
 solution(["frodo", "fradi", "crodo", "abc123", "frodoc"], ["fr*d*", "abc1**"])
 # 순열
-print(list(permutations(["frodo", "fradi", "crodo", "abc123", "frodoc"], 2)))
+# print(list(permutations(["frodo", "fradi", "crodo", "abc123", "frodoc"], 2)))
 # 조합
-print(list(combinations(["frodo", "fradi", "crodo", "abc123", "frodoc"], 2)))
+# print(list(combinations(["frodo", "fradi", "crodo", "abc123", "frodoc"], 2)))

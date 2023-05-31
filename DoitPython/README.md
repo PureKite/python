@@ -12,3 +12,7 @@
 |투 포인터|[008. 좋다](https://www.acmicpc.net/problem/1253)
 |슬라이딩 윈도우|[009. DNA 비밀번호](https://www.acmicpc.net/problem/12891)
 |슬라이딩 윈도우|[010. 최솟값 찾기 - 나중에 풀기!](https://www.acmicpc.net/problem/)
+|스택과 큐|[011. 스택 수열](https://www.acmicpc.net/problem/1874)
+|스택과 큐|[012. 오큰수](https://www.acmicpc.net/problem/17298)
+|스택과 큐|[013. 카드2j](https://www.acmicpc.net/problem/2164)
+|스택과 큐|[014. 절댓값 힙j](https://www.acmicpc.net/problem/11286)

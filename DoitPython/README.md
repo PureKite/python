@@ -15,4 +15,7 @@
 |스택과 큐|[011. 스택 수열](https://www.acmicpc.net/problem/1874)
 |스택과 큐|[012. 오큰수](https://www.acmicpc.net/problem/17298)
 |스택과 큐|[013. 카드2j](https://www.acmicpc.net/problem/2164)
-|스택과 큐|[014. 절댓값 힙j](https://www.acmicpc.net/problem/11286)
+|스택과 큐|[014. 절댓값 힙](https://www.acmicpc.net/problem/11286)
+|정렬|[015. 수 정렬하기](https://www.acmicpc.net/problem/2750)
+|정렬|[016. 버블 소트](https://www.acmicpc.net/problem/1377)
+|정렬|[017. 소트인사이드](https://www.acmicpc.net/problem/1427)
